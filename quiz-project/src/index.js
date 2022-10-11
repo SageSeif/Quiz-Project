@@ -66,6 +66,5 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<React.StrictMode>
     <QuizBee />
   </React.StrictMode>);
-// ReactDOM.render(<QuizBee/>, document.getElementById("root"));
 
 reportWebVitals();
